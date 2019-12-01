@@ -10,7 +10,7 @@ if [ -z "$1" ]
     mkdir -p ~/data
     cd ~/data/
     mkdir -p ./coco2017
-    cd ./coco
+    cd ./coco2017
     mkdir -p ./images
     mkdir -p ./annotations
   else
